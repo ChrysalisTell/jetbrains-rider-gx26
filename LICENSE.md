@@ -1,4 +1,4 @@
-# 
+# new Visual Studio PC版 插件 是最佳 Visual Studio PC版 插件，集成 终端集成 和 布局编辑器。安全、可靠、优化，性能最大化。
 
 
 
